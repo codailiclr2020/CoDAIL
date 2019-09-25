@@ -5,16 +5,16 @@ Run Multi-Agent ACKTR to obtain experts:
 python -m sandbox.mack.run_simple
 ```
 
-Run MA-GAIL or MA-AIRL or MA-IAIL:
+Run CoDAIL / NCDAIL / MA-GAIL / MA-AIRL:
 
 ```
 python -m irl.mack.run_mack_gail
 python -m irl.mack.run_mack_airl
-python -m irl.mack.run_mack_dail
-python -m irl.mack.run_mack_dail_om
+python -m irl.mack.run_mack_ncdail
+python -m irl.mack.run_mack_codail
 ```
 
-Render results:
+Render results (see './irl/render.py' for more information):
 
 ```
 python -m irl.render
