@@ -1,4 +1,4 @@
-Implementation are based on [MA-AIRL](https://github.com/ermongroup/ma-airl)
+Implementation are based on [MA-AIRL](https://github.com/ermongroup/ma-airl).
 
 ## Running the Code
 
